@@ -64,5 +64,5 @@ jobs:
         with:
           app-name: 'portfolio-website'
           slot-name: 'Production'
-          package: .
+          package: dist/
           
